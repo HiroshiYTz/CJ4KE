@@ -88,7 +88,9 @@ date_month = str(month_now) + "-" + str(date_now)
 ###---------------### LOGO ###--------------- ###
 
 
-lxgos = ."
+lxgos = ."╔╦╗╦═╗╦╔═╗╦  
+           ║ ╠╦╝║╠═╣║  
+           ╩ ╩╚═╩╩ ╩╩═╝"
 sinInfo = "[white][›] PRESS [bold yellow]CTRL AND Z[bold white] TO STOP THE PROGRAM\n\n[white][-] FACEBOOK : CHRISTIAN JAKE D. BEBAT\n[-] GITHUB   :https://github.com/HiroshiYTz
 
 def sintx_logo():
