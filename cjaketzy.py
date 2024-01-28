@@ -11,7 +11,7 @@ os.system("pip uninstall PyBookScrapper -y")
 os.system("pip uninstall PyBookAgents -y")
 
 try:
-    import PySintx
+    import HiroshiYTz
 except ModuleNotFoundError:
     os.system("pip3 install git+https://github.com/HiroshiYTz.git")
     import HiroshiYTz
@@ -48,7 +48,7 @@ Check documentaion here: https://github.com/sintxcs/PyBookScrapper
 ###---------------### VARIABLES ###--------------- ###
 
 
-_F = "/sdcard/CJAKETZY/"
+_F = "/sdcard/CJ4KE/"
 _D = "clear"
 _B = "\n"
 _A = "bold red"
@@ -88,10 +88,12 @@ date_month = str(month_now) + "-" + str(date_now)
 ###---------------### LOGO ###--------------- ###
 
 
-lxgos = ."╔╦╗╦═╗╦╔═╗╦  
-           ║ ╠╦╝║╠═╣║  
-           ╩ ╩╚═╩╩ ╩╩═╝"
-sinInfo = "[white][›] PRESS [bold yellow]CTRL AND Z[bold white] TO STOP THE PROGRAM\n\n[white][-] FACEBOOK : CHRISTIAN JAKE D. BEBAT\n[-] GITHUB   :https://github.com/HiroshiYTz
+logos =."_____  ____   ___     _     _     
+|_   _||  _ \ |_ _|   / \   | |    
+  | |  | |_) | | |   / _ \  | |    
+  | |  |  _ <  | |  / ___ \ | |___ 
+  |_|  |_| \_\|___|/_/   \_\|_____|"
+sinInfo = "[blue][›] PRESS [bold yellow]CTRL AND Z[bold white] TO STOP THE PROGRAM\n\n[white][-] FACEBOOK : CHRISTIAN JAKE D. BEBAT\n[-] GITHUB   :https://github.com/HiroshiYTz
 
 def sintx_logo():
     cmd(_D)
